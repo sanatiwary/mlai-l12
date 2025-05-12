@@ -1,0 +1,12 @@
+natural language processing
+- branch of ML and AI that deals with computer understanding human language (converting to binary)
+- applications: smart device, smart assistant (siri, alexa, google assistant), chat bots
+- sentence in any language -> mathematical/numerical representation
+
+1. identify and remove stopwords
+2. stemming/lemmatization: convert all words to base (remove past tense, ing)
+3. vectorization: converting words to binary format
+
+sentiment analysis: identifying positive/negative language to classify "sentiment"
+- ex. product reviews, facebook comments, etc.
+- language like "good", "love/like" -> positive; language like "bad", "don't like" -> negative
